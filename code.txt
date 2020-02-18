@@ -1,0 +1,1 @@
+begininteger x, y ,z boolean testx := y ;begin integer pproc s(integer q , y ; boolean a ) =if x > y + 1 then q := xend ifend ;call s(x,y, z )end $
